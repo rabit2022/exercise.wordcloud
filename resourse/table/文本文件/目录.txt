@@ -1,0 +1,4 @@
+（1）中文停用词库；（2）哈工大停用词表；（3）四川大学停用词表；（4）百度停用词表。
+
+
+https://blog.csdn.net/uzdw_/article/details/108902149
